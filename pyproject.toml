@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pupil_ai"
+version = "0.1.0"
+description = "Neuroptics pupillometry LLM system"
+authors = [{ name = "Sharon Teo" }]
+dependencies = []
